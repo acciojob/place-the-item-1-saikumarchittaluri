@@ -1,2 +1,11 @@
-
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:space-between;
+/* 	background:green; */
+	flex-wrap:wrap;
+}
+.item{
+	background:green;
+	width:15%;
+}
